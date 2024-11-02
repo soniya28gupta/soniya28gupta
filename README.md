@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soniya</h1>
 <h3 align="center">A passionate Frontend developer and I have interest in 2D Games and AR models and having a keen interest in artificial intelligence and machine learning as well as love to solve the real world problems.</h3>
 
-<img align="right"alt="coding"width="400"src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniya28gupta&label=Profile%20views&color=0e75b6&style=flat" alt="soniya28gupta" /> </p>
 
