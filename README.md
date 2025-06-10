@@ -1,15 +1,15 @@
-<h1 align="center">🌟 Innovator in the Making: I'm Soniya</h1>
-<h3 align="center">A 3rd-year B.Tech student diving deep into Artificial Intelligence and Machine Learning, with a mission to turn data into smart decisions and impactful solutions.</h3>
+<h1 align="center">Hi 👋, I'm Soniya</h1>
+<h3 align="center">An enthusiastic AI/ML Developer with a passion for deep learning, data science, and solving real-world problems through intelligent systems.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=soniya28gupta&label=Profile%20views&color=0e75b6&style=flat" alt="soniya28gupta" /> 
 </p>
 
-- 🔭 Currently building **deep learning models** and experimenting with **AI-powered applications**  
-- 🌱 Learning and practicing **TensorFlow, PyTorch, Scikit-learn, NLP, and model optimization**  
-- 💬 Let's talk about **AI, neural networks, Python tricks, and real-world ML use-cases**  
-- 📫 Reach me at: **soniyagupta0228@gmail.com**  
-- ⚡ Fun fact: **I believe the best way to understand data is to teach it how to think!**
+- 🔭 I’m currently working on **deep learning and data-driven projects using Python and ML libraries**  
+- 🌱 I’m currently learning **TensorFlow, PyTorch, Scikit-learn, and NLP techniques**  
+- 💬 Ask me about **Machine Learning, Python, Deep Learning, and Data Analysis**  
+- 📫 How to reach me: **soniyagupta0228@gmail.com**  
+- ⚡ Fun fact: **I love building models that learn from data and improve automatically!**
 
 ---
 
@@ -68,6 +68,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soniya28gupta&show_icons=true&locale=en" alt="soniya28gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniya28gupta&" alt="soniya28gupta" /></p>
+
+
 
 
 
