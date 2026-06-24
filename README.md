@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soniya Gupta</h1>
-<h3 align="center">AI/ML Developer • Flutter + LLM Builder • 3rd Year B.Tech CSE Student passionate about building intelligent systems that learn, reason, and solve real-world problems</h3>
+<h3 align="center">AI/ML Developer  3rd Year B.Tech CSE Student passionate about building intelligent systems that learn, reason, and solve real-world problems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Flutter+%2B+Flask+%2B+LLM+Workflows;Open+Source+Contributor+%7C+GSSoC+2026;Building+AI-powered+apps+with+real-world+impact" alt="Typing SVG" />
