@@ -24,16 +24,17 @@
 
 ---
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/soniya-gupta-952260296" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-Soniya%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/soniyagupta3629" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-@soniyagupta3629-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/soniya_5168" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-soniya__5168-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
