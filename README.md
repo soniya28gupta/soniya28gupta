@@ -39,10 +39,7 @@
 
 
 
-  <a href="https://gssoc.girlscript.org/profile/ca13b7eb-9202-4cc9-9b2b-44d9e2a4af6a" target="_blank">
-    <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GSSoC 2026 Contributor" />
-  </a>
-
+  
 
 </p>
 ---
@@ -134,6 +131,9 @@
 ---
 
 <h3 align="left">Open Source & Achievements:</h3>
+<a href="https://gssoc.girlscript.org/profile/ca13b7eb-9202-4cc9-9b2b-44d9e2a4af6a" target="_blank">
+    <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GSSoC 2026 Contributor" />
+  </a>
 
 - 💜 **GSSoC 2026 Contributor**
 - 🦈 **GitHub Pull Shark Achievement**
