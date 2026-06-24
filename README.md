@@ -36,15 +36,14 @@
   <a href="https://www.leetcode.com/soniya_5168" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-</p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=soniya28gupta&label=Profile%20views&color=A855F7&style=for-the-badge" alt="soniya28gupta" />
+
+
 
   <a href="https://gssoc.girlscript.org/profile/ca13b7eb-9202-4cc9-9b2b-44d9e2a4af6a" target="_blank">
     <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GSSoC 2026 Contributor" />
   </a>
 
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Flutter%20%7C%20LLMs-A855F7?style=for-the-badge" alt="focus" />
+
 </p>
 ---
 
