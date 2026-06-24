@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋, I'm Soniya Gupta</h1>
-<h3 align="center">An enthusiastic AI/ML Developer with a passion for deep learning, data science, and solving real-world problems through intelligent systems.</h3>
+<h3 align="center">AI/ML Developer building intelligent systems with Machine Learning, Deep Learning, NLP, and real-world AI applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Flutter+%2B+Flask+%2B+LLM+Workflows;Open+Source+Contributor+%7C+GSSoC+2026;Building+AI-powered+apps+with+real-world+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;AI-powered+web+and+mobile+applications;Open+Source+Contributor+%7C+GSSoC+2026;Building+real-world+AI+solutions+with+impact" alt="Typing SVG" />
 </p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=soniya28gupta&label=Profile%20views&color=A855F7&style=for-the-badge" alt="soniya28gupta" />
- 
-  
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔭 I’m currently working on **AI/ML, deep learning, NLP, Flutter apps, and intelligent full-stack systems**
+- 🔭 I’m currently working on **AI/ML, deep learning, NLP, and intelligent applications across web and mobile**
 - 🌱 I’m currently learning **TensorFlow, PyTorch, Scikit-learn, NLP, LLM applications, and modern AI workflows**
-- 💬 Ask me about **Machine Learning, Python, Deep Learning, NLP, Flutter, Flask, and Data Analysis**
+- 💬 Ask me about **Machine Learning, Python, Deep Learning, NLP, AI-powered applications, and Data Analysis**
 - 🤝 I’m interested in collaborating on **AI/ML projects, open source, and impactful real-world applications**
 - 📫 How to reach me: **soniyagupta0228@gmail.com**
-- ⚡ Fun fact: **I enjoy building systems that can learn from data, automate workflows, and turn ideas into useful AI products**
+- ⚡ Fun fact: **I enjoy building systems that learn from data and turning them into practical products people can use**
 
 ---
 
