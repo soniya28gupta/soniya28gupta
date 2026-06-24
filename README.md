@@ -8,7 +8,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=soniya28gupta&label=Profile%20views&color=A855F7&style=for-the-badge" alt="soniya28gupta" />
   <img src="https://img.shields.io/badge/Open%20Source-GSSoC%202026%20Contributor-A855F7?style=for-the-badge" alt="gssoc" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Flutter%20%7C%20LLMs-A855F7?style=for-the-badge" alt="focus" />
+  
 </p>
 
 ---
