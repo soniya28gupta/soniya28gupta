@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Soniya</h1>
-<h3 align="center">An enthusiastic AI/ML Developer with a passion for deep learning, data science, and solving real-world problems through intelligent systems.</h3>
+<h1 align="center">Hi 👋, I'm Soniya Gupta</h1>
+<h3 align="center">AI/ML Developer | 3rd Year B.Tech CSE Student | Building intelligent systems with Machine Learning, Deep Learning, NLP, Flutter, and AI-powered applications</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=soniya28gupta&label=Profile%20views&color=0e75b6&style=flat" alt="soniya28gupta" /> 
 </p>
 
-- 🔭 I’m currently working on **deep learning and data-driven projects using Python and ML libraries**  
-- 🌱 I’m currently learning **TensorFlow, PyTorch, Scikit-learn, and NLP techniques**  
-- 💬 Ask me about **Machine Learning, Python, Deep Learning, and Data Analysis**  
-- 📫 How to reach me: **soniyagupta0228@gmail.com**  
-- ⚡ Fun fact: **I love building models that learn from data and improve automatically!**
+- 🔭 I’m currently working on **AI/ML, deep learning, NLP, Flutter apps, and intelligent full-stack systems**
+- 🌱 I’m currently learning **TensorFlow, PyTorch, Scikit-learn, NLP, LLM applications, and modern AI workflows**
+- 💬 Ask me about **Machine Learning, Python, Deep Learning, NLP, Flutter, and Data Analysis**
+- 🤝 I’m interested in collaborating on **AI/ML projects, open source, and impactful real-world applications**
+- 📫 How to reach me: **soniyagupta0228@gmail.com**
+- ⚡ Fun fact: **I love building systems that learn from data, automate workflows, and solve real-world problems**
 
 ---
 
@@ -30,36 +31,92 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
   <!-- Programming Languages -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
+
+  <!-- Web / App / Backend -->
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 
-  <!-- ML & DL Tools -->
+  <!-- ML / DL / Data -->
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="#"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/></a>
   <a href="#"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/NumPy_logo.svg" alt="NumPy" width="60" height="40"/></a>
   <a href="#"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/></a>
+  <a href="#"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/></a>
+
 </p>
 
 ---
 
-<h3 align="left">Deep Learning Interests:</h3>
+<h3 align="left">Technology Stack:</h3>
 
-- 📌 Computer Vision (CNNs, OpenCV)  
-- 🧠 Neural Networks & Optimization  
-- 🗣️ Natural Language Processing (NLP)  
-- 🧮 Model Training, Evaluation & Tuning  
-- 🤖 Reinforcement Learning & Generative Models  
+### 🖥️ Frontend / App Development
+- **Flutter**
+- **Dart**
+- **React**
+- **HTML, CSS, JavaScript, TypeScript**
+
+### ⚙️ State Management & Local Storage
+- **Riverpod**
+- **Isar Database**
+
+### 🗄️ Backend / APIs
+- **Flask (Python)**
+- **REST API Integration**
+
+### 🤖 AI / Machine Learning / LLM
+- **Python**
+- **TensorFlow**
+- **PyTorch**
+- **Scikit-learn**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **NLP techniques**
+- **Deep Learning**
+- **OpenAI Integration**
+- **Ollama**
+- **Qwen 2.5 7B Model**
+
+---
+
+<h3 align="left">Core Interests:</h3>
+
+- 📌 **Computer Vision**
+- 🧠 **Neural Networks & Deep Learning**
+- 🗣️ **Natural Language Processing (NLP)**
+- 🧮 **Model Training, Evaluation & Hyperparameter Tuning**
+- 🤖 **LLM-powered applications and AI assistants**
+- 📊 **Data Analysis & Predictive Modeling**
+- 📱 **AI-powered Flutter applications**
+- 🔍 **Real-world intelligent systems and automation**
+
+---
+
+<h3 align="left">Current Focus:</h3>
+
+- Building **AI-powered applications** with practical real-world use cases  
+- Exploring **LLM integration** in apps using **Ollama, Qwen, and OpenAI APIs**  
+- Developing **Flutter-based intelligent apps** with backend + AI workflows  
+- Improving my skills in **Deep Learning, NLP, and model deployment**  
+- Contributing to **open source projects** and collaborative platforms  
 
 ---
 
@@ -69,22 +126,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniya28gupta&" alt="soniya28gupta" /></p>
 
-
-
-
-
-
 <!--
-**soniya28gupta/soniya28gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**soniya28gupta/soniya28gupta** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
