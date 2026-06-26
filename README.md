@@ -167,7 +167,7 @@
 
 <p align="center">
   <b>Thanks for visiting my profile 🌸</b><br/>
-  <i>Always learning, always building, always curious ❤️ 🚀</i>
+  <i>Always learning, always building, always curious  🚀</i>
 </p>
 
 <!--
